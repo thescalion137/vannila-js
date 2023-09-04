@@ -10,9 +10,3 @@ PUT      /api/movies/:id
 DELETE   /api/movies/:id
 
 ```
-## Technologies/Tools used
-
-- React
-- NodeJS
-- HTML
-- SCSS
